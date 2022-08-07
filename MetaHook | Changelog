@@ -1,20 +1,35 @@
+I now decided to make a changelog to see the process of the project
+This project started 5 months ago, last thing i made is trying it with fivem 5 days ago and its working
+
 * Creating MetaHook
+- Done
+* Creating API Base
+- Done
+* Creating interals
+- Done
 * MetaHook Created
+- Done
 * Hooking it into ImGui
-* Hooked it
-* Testing it with PID
+- Done
+* Testing it with Normal PID 
 * PID Hook Failed :(
 * Testing it with Memory Hook
 * Memory Hook failed :(
 * Testing it with own method
 * Working with Custom API | MetaHook
+* PID Deviator
+* PID Deviator done | more than 3 weeks of work :)
+* Making libraries
+- Done
+* Making Includes
+- Done
 * Hooking it with ImGui Tools
-* Hooked IT
+- Done
 * Hooking it in COD 2 With exploits
-* Hooked it
+- Done
 * Hooking it with RUST
-* Hooked it
+- Done
 * Hooking it with FiveM with executor
-* Hooking it
+- Done
 * Trying to make a FiveM Project
 * -
